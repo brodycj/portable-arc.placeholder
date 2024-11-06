@@ -1,0 +1,10 @@
+[package]
+name = "portable-arc"
+version = "0.0.0"
+license = "Apache-2.0 OR MIT"
+edition = "2018" # for extra consistency with portable-atomic & portable-atomic-util
+description = """
+portable-arc crate
+"""
+
+[dependencies]
